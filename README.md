@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aayush Joshi</h1>
+<h1 align="center">Hi 👋, I'm Aayush kumar Joshi</h1>
 <h3 align="center">Determined to become a developer to bring about positive change via the implementation of technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayush2308&label=Profile%20views&color=0e75b6&style=flat" alt="aayush2308" /> </p>
