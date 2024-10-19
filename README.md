@@ -7,6 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+ [![An image of @aayush2308's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aayush2308)](https://holopin.io/@aayush2308)
+
+
 - 🌱 I’m currently learning **Web Dev and DSA**
 
 - 📫 How to reach me **aayushjoshi2308@gmail.com**
